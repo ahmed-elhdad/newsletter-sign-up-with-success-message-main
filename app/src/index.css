@@ -1,0 +1,31 @@
+:root{
+    --Red: #ff6257;
+    --Blue-800: #242742;
+    --Blue-700: #36384e;
+    --Grey: #949494;
+    --White: #ffffff;
+}
+
+.bg-grey{
+    background-color: var(--Grey);
+}
+.bg-Red{
+  background-color: var(--Red);
+}
+.text-white{
+    color: var(--White);
+}
+.border-grey{
+    border:var(--Grey)
+}
+
+.text-blue-800{
+    color: var(--Blue-800);
+}
+.text-red{
+    color: var(--Red);
+}
+
+.none{
+    display: none;
+}
